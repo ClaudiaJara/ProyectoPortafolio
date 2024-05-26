@@ -1,2 +1,0 @@
-# ProyectoPortafolio
- Elaborar portafolio personal
